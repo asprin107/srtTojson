@@ -1,0 +1,25 @@
+<SAMI>
+  <BODY>
+
+  <SYNC Start=0>
+    <p>First caption</p>
+    <p>Init</p>
+  </SYNC>
+
+  <SYNC Start=1000>
+    <p>두번째 자막</p>
+    <p>시작</p>
+  </SYNC>
+
+  <SYNC Start=2000>
+    <p>Third one,</p>
+    <p>Test Finished</p>
+  </SYNC>
+
+  <SYNC Start=3000>
+    <p>4 생략</p>
+    <p></p>
+  </SYNC>
+
+  </BODY>
+</SAMI>
